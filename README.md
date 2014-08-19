@@ -3,6 +3,10 @@ dave's geeklets
 
 This is a collection of geeklets for [GeekTool](http://sourceforge.net/projects/geektool/)
 
+### Time and Weather
+
+![Weather](samples/weather.png)
+
 ## Usage
 
     cp weather-config-sample.yaml weather/config.yaml
